@@ -6,6 +6,8 @@
 
 This is a JavaScript game I built called Robot Gladiators to be entered in a hackathon competition with specific requirements. After I built an MVP (minimum viable product) of the game, I improved my skills by increasing this game complexity. I used basic JavaScript with HTML and CSS.
 
+[Click here to see video example of this game.](https://drive.google.com/file/d/1sdmscT2D2wvK5hw8-AedPZyyx2Nvq7dz/view)
+
 ## Table of Contents
 
 - [Usage](#usage)
